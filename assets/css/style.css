@@ -17,3 +17,7 @@ body {
 #enviar:hover {
     background-color: chocolate;
 }
+
+.border {
+    border-radius: 5px;
+}
