@@ -8,3 +8,12 @@ form {
 body {
     background-color: aquamarine;
 }
+
+#enviar {
+    width: 70px;
+    background-color: crimson;
+}
+
+#enviar:hover {
+    background-color: chocolate;
+}
