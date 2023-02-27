@@ -1,4 +1,8 @@
-body {
+form {
     display: flex;
     flex-direction: column;
+}
+
+body {
+    background-color: aquamarine;
 }
